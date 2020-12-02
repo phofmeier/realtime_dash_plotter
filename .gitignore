@@ -1,3 +1,7 @@
 .pytest_cache
 **/__pycache__/
 .vscode/
+.coverage
+.tox/
+htmlcov/
+realtime_dash_plotter.egg-info/
